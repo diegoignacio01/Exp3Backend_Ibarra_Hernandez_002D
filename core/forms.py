@@ -42,11 +42,9 @@ class ProductoForm(ModelForm):
                 }
             ),
             'categoria': forms.Select(
-
                 attrs={
                     'class': 'form-control',
                     'id': 'categoria',
                 }
-
             )
         }
