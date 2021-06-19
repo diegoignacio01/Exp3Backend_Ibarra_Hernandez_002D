@@ -1,8 +1,5 @@
 from django.db import models
 
-#POR CADA CAMBIO QUE REALIZEMOS EN ESTA PAGINA DEBEMOS INGRESAR ENM LA CONSOLA "py manage.py makemigrations" y luego "py manage.py migrate"
-#PRIMERO REVISAR TODOS LAS CLASES PORQUE NO SE SI SE PUEDE REVERTIR
-# Create your models here.
 
 #Modelo para la categoria
 
